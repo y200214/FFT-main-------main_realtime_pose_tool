@@ -1,0 +1,11 @@
+# Ultralytics ByteTrack tracker settings
+tracker_type: bytetrack # 安定しているByteTrackを使用
+
+# --- ここで記憶時間を設定 ---
+track_buffer: 120      # 人物を見失ってから約4秒間はIDを記憶し続ける
+
+# --- その他の追跡設定 ---
+track_high_thresh: 0.5 
+new_track_thresh: 0.6
+track_low_thresh: 0.1
+match_thresh: 0.8

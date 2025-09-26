@@ -1,0 +1,4 @@
+2025-08-20 17:04:50,126 - root - INFO - ロギング設定が完了しました。
+2025-08-20 17:17:08,395 - services.capture_service - INFO - CaptureServiceを開始しました。
+2025-08-20 17:17:11,404 - services.capture_service - WARNING - CaptureServiceが時間内に終了せず、強制終了します。
+2025-08-20 17:17:11,404 - services.capture_service - INFO - CaptureServiceを停止しました。

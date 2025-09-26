@@ -1,0 +1,15 @@
+# --- GUI and Data Handling ---
+PyQt5
+pandas
+
+# --- Computer Vision & ML Core (Stable Versions) ---
+opencv-python
+ultralytics
+tensorflow==2.15.0
+mediapipe==0.10.9
+deepface
+scipy
+lap
+
+# --- Windows Specific (for better camera names) ---
+pygrabber

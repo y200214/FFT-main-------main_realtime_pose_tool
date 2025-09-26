@@ -1,0 +1,547 @@
+2025-08-16 12:45:23,804 - root - INFO - ロギング設定が完了しました。
+2025-08-16 13:08:24,397 - root - INFO - ロギング設定が完了しました。
+2025-08-16 13:24:03,072 - root - INFO - ロギング設定が完了しました。
+2025-08-16 13:25:53,410 - root - INFO - ロギング設定が完了しました。
+2025-08-16 13:30:31,729 - root - INFO - ロギング設定が完了しました。
+2025-08-16 13:36:54,196 - root - INFO - ロギング設定が完了しました。
+2025-08-16 13:39:41,947 - root - INFO - ロギング設定が完了しました。
+2025-08-16 13:45:33,526 - root - INFO - ロギング設定が完了しました。
+2025-08-16 13:45:38,788 - services.capture_service - INFO - CaptureServiceを開始しました。
+2025-08-16 13:45:41,802 - services.capture_service - WARNING - CaptureServiceが時間内に終了せず、強制終了します。
+2025-08-16 13:45:41,802 - services.capture_service - INFO - CaptureServiceを停止しました。
+2025-08-16 13:45:41,812 - services.capture_service - INFO - CaptureServiceを開始しました。
+2025-08-16 13:45:44,824 - services.capture_service - WARNING - CaptureServiceが時間内に終了せず、強制終了します。
+2025-08-16 13:45:44,824 - services.capture_service - INFO - CaptureServiceを停止しました。
+2025-08-16 13:52:24,336 - root - INFO - ロギング設定が完了しました。
+2025-08-16 13:52:31,464 - services.capture_service - INFO - CaptureServiceを開始しました。
+2025-08-16 13:52:34,474 - services.capture_service - WARNING - CaptureServiceが時間内に終了せず、強制終了します。
+2025-08-16 13:52:34,474 - services.capture_service - INFO - CaptureServiceを停止しました。
+2025-08-16 14:02:28,568 - root - INFO - ロギング設定が完了しました。
+2025-08-16 14:12:23,168 - root - INFO - ロギング設定が完了しました。
+2025-08-16 14:19:18,796 - root - INFO - ロギング設定が完了しました。
+2025-08-16 14:25:06,401 - root - INFO - ロギング設定が完了しました。
+2025-08-16 14:30:23,253 - root - INFO - ロギング設定が完了しました。
+2025-08-16 14:32:37,950 - root - INFO - ロギング設定が完了しました。
+2025-08-16 14:37:05,225 - root - INFO - ロギング設定が完了しました。
+2025-08-16 14:52:40,452 - root - INFO - ロギング設定が完了しました。
+2025-08-16 15:09:06,482 - root - INFO - ロギング設定が完了しました。
+2025-08-16 15:21:54,630 - root - INFO - ロギング設定が完了しました。
+2025-08-16 15:53:18,970 - root - INFO - ロギング設定が完了しました。
+2025-08-16 15:55:21,973 - root - INFO - ロギング設定が完了しました。
+2025-08-16 15:58:11,700 - services.capture_service - INFO - CaptureServiceを開始しました。
+2025-08-16 15:58:14,707 - services.capture_service - WARNING - CaptureServiceが時間内に終了せず、強制終了します。
+2025-08-16 15:58:14,707 - services.capture_service - INFO - CaptureServiceを停止しました。
+2025-08-16 16:16:54,685 - root - INFO - ロギング設定が完了しました。
+2025-08-16 16:17:59,329 - root - INFO - ロギング設定が完了しました。
+2025-08-16 16:19:03,237 - root - INFO - ロギング設定が完了しました。
+2025-08-16 16:21:23,599 - root - INFO - ロギング設定が完了しました。
+2025-08-16 16:23:08,533 - root - INFO - ロギング設定が完了しました。
+2025-08-16 16:24:40,117 - root - INFO - ロギング設定が完了しました。
+2025-08-16 16:26:01,818 - root - INFO - ロギング設定が完了しました。
+2025-08-16 16:26:35,211 - root - INFO - ロギング設定が完了しました。
+2025-08-16 16:29:28,965 - services.capture_service - INFO - CaptureServiceを開始しました。
+2025-08-16 16:29:31,968 - services.capture_service - WARNING - CaptureServiceが時間内に終了せず、強制終了します。
+2025-08-16 16:29:31,968 - services.capture_service - INFO - CaptureServiceを停止しました。
+2025-08-16 17:02:01,404 - root - INFO - ロギング設定が完了しました。
+2025-08-16 17:07:06,983 - root - INFO - ロギング設定が完了しました。
+2025-08-16 17:26:24,981 - root - INFO - ロギング設定が完了しました。
+2025-08-16 17:27:47,022 - services.capture_service - INFO - CaptureServiceを開始しました。
+2025-08-16 17:27:50,037 - services.capture_service - WARNING - CaptureServiceが時間内に終了せず、強制終了します。
+2025-08-16 17:27:50,038 - services.capture_service - INFO - CaptureServiceを停止しました。
+2025-08-16 17:29:00,877 - root - INFO - ロギング設定が完了しました。
+2025-08-16 17:29:04,325 - services.capture_service - INFO - CaptureServiceを開始しました。
+2025-08-16 17:29:07,333 - services.capture_service - WARNING - CaptureServiceが時間内に終了せず、強制終了します。
+2025-08-16 17:29:07,333 - services.capture_service - INFO - CaptureServiceを停止しました。
+2025-08-16 17:34:22,542 - root - INFO - ロギング設定が完了しました。
+2025-08-16 17:34:24,870 - utils.camera_utils - INFO - 最大10台のカメラをスキャンします...
+2025-08-16 17:34:25,625 - utils.camera_utils - INFO - 利用可能なカメラ: ['0']
+2025-08-16 17:36:07,880 - utils.camera_utils - INFO - 最大10台のカメラをスキャンします...
+2025-08-16 17:36:08,396 - utils.camera_utils - INFO - 利用可能なカメラ: ['0']
+2025-08-16 17:36:51,171 - utils.camera_utils - INFO - 最大10台のカメラをスキャンします...
+2025-08-16 17:36:52,041 - utils.camera_utils - INFO - 利用可能なカメラ: ['0']
+2025-08-16 17:37:04,030 - services.capture_service - INFO - CaptureServiceを開始しました。
+2025-08-16 17:37:07,037 - services.capture_service - WARNING - CaptureServiceが時間内に終了せず、強制終了します。
+2025-08-16 17:37:07,037 - services.capture_service - INFO - CaptureServiceを停止しました。
+2025-08-16 17:37:45,725 - root - INFO - ロギング設定が完了しました。
+2025-08-16 17:37:51,649 - utils.camera_utils - INFO - 最大10台のカメラをスキャンします...
+2025-08-16 17:37:52,962 - utils.camera_utils - INFO - 利用可能なカメラ: ['0', '1']
+2025-08-16 17:38:03,492 - utils.camera_utils - INFO - 最大10台のカメラをスキャンします...
+2025-08-16 17:38:04,779 - utils.camera_utils - INFO - 利用可能なカメラ: ['0', '1']
+2025-08-16 17:38:14,404 - utils.camera_utils - INFO - 最大10台のカメラをスキャンします...
+2025-08-16 17:38:15,698 - utils.camera_utils - INFO - 利用可能なカメラ: ['0', '1']
+2025-08-16 17:38:57,552 - utils.camera_utils - INFO - 最大10台のカメラをスキャンします...
+2025-08-16 17:38:58,823 - utils.camera_utils - INFO - 利用可能なカメラ: ['0', '1']
+2025-08-16 17:42:55,464 - root - INFO - ロギング設定が完了しました。
+2025-08-16 17:42:57,978 - utils.camera_utils - INFO - 最大10台のカメラをスキャンします...
+2025-08-16 17:42:59,287 - utils.camera_utils - INFO - 利用可能なカメラ: ['0', '1']
+2025-08-16 17:43:06,955 - utils.camera_utils - INFO - 最大10台のカメラをスキャンします...
+2025-08-16 17:43:08,196 - utils.camera_utils - INFO - 利用可能なカメラ: ['0', '1']
+2025-08-16 17:43:27,377 - utils.camera_utils - INFO - 最大10台のカメラをスキャンします...
+2025-08-16 17:43:28,626 - utils.camera_utils - INFO - 利用可能なカメラ: ['0', '1']
+2025-08-16 17:44:05,775 - services.capture_service - INFO - CaptureServiceを開始しました。
+2025-08-16 17:44:08,781 - services.capture_service - WARNING - CaptureServiceが時間内に終了せず、強制終了します。
+2025-08-16 17:44:08,782 - services.capture_service - INFO - CaptureServiceを停止しました。
+2025-08-16 17:47:20,431 - root - INFO - ロギング設定が完了しました。
+2025-08-16 17:47:30,053 - utils.camera_utils - INFO - 最大10台のカメラをスキャンします...
+2025-08-16 17:47:30,923 - utils.camera_utils - INFO - 利用可能なカメラ: ['0']
+2025-08-16 17:47:42,601 - utils.camera_utils - INFO - 最大10台のカメラをスキャンします...
+2025-08-16 17:47:43,419 - utils.camera_utils - INFO - 利用可能なカメラ: ['0']
+2025-08-16 17:47:50,730 - utils.camera_utils - INFO - 最大10台のカメラをスキャンします...
+2025-08-16 17:47:51,542 - utils.camera_utils - INFO - 利用可能なカメラ: ['0']
+2025-08-16 17:48:10,155 - utils.camera_utils - INFO - 最大10台のカメラをスキャンします...
+2025-08-16 17:48:10,947 - utils.camera_utils - INFO - 利用可能なカメラ: ['0']
+2025-08-16 17:48:20,003 - utils.camera_utils - INFO - 最大10台のカメラをスキャンします...
+2025-08-16 17:48:20,784 - utils.camera_utils - INFO - 利用可能なカメラ: ['0']
+2025-08-16 17:48:32,992 - services.capture_service - INFO - CaptureServiceを開始しました。
+2025-08-16 17:48:36,004 - services.capture_service - WARNING - CaptureServiceが時間内に終了せず、強制終了します。
+2025-08-16 17:48:36,004 - services.capture_service - INFO - CaptureServiceを停止しました。
+2025-08-16 17:50:09,338 - utils.camera_utils - INFO - 最大10台のカメラをスキャンします...
+2025-08-16 17:50:10,575 - utils.camera_utils - INFO - 利用可能なカメラ: ['0', '1']
+2025-08-16 17:54:02,822 - root - INFO - ロギング設定が完了しました。
+2025-08-16 17:54:21,733 - utils.camera_utils - INFO - 最大10台のカメラをスキャンします...
+2025-08-16 17:54:28,765 - utils.camera_utils - INFO - 利用可能なカメラ: ['0', '1']
+2025-08-16 17:54:47,030 - utils.camera_utils - INFO - 最大10台のカメラをスキャンします...
+2025-08-16 17:54:53,542 - utils.camera_utils - INFO - 利用可能なカメラ: ['0', '1']
+2025-08-16 17:55:04,343 - services.capture_service - INFO - CaptureServiceを開始しました。
+2025-08-16 17:55:07,356 - services.capture_service - WARNING - CaptureServiceが時間内に終了せず、強制終了します。
+2025-08-16 17:55:07,356 - services.capture_service - INFO - CaptureServiceを停止しました。
+2025-08-16 17:57:34,823 - root - INFO - ロギング設定が完了しました。
+2025-08-16 17:57:41,096 - utils.camera_utils - INFO - 最大10台のカメラをスキャンします...
+2025-08-16 17:57:48,021 - utils.camera_utils - INFO - 利用可能なカメラ: ['0', '1']
+2025-08-16 17:57:58,643 - services.capture_service - INFO - CaptureServiceを開始しました。
+2025-08-16 17:58:01,656 - services.capture_service - WARNING - CaptureServiceが時間内に終了せず、強制終了します。
+2025-08-16 17:58:01,656 - services.capture_service - INFO - CaptureServiceを停止しました。
+2025-08-16 18:05:04,373 - root - INFO - ロギング設定が完了しました。
+2025-08-16 18:05:06,654 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'Pixel 7a (Windows 仮想カメラ)', 1: 'HD USB Camera', 2: 'OBS Virtual Camera'}
+2025-08-16 18:07:02,011 - root - INFO - ロギング設定が完了しました。
+2025-08-16 18:07:17,682 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'Pixel 7a (Windows 仮想カメラ)', 1: 'HD USB Camera', 2: 'OBS Virtual Camera'}
+2025-08-16 18:07:29,367 - services.capture_service - INFO - CaptureServiceを開始しました。
+2025-08-16 18:07:32,369 - services.capture_service - WARNING - CaptureServiceが時間内に終了せず、強制終了します。
+2025-08-16 18:07:32,370 - services.capture_service - INFO - CaptureServiceを停止しました。
+2025-08-16 18:08:17,168 - root - INFO - ロギング設定が完了しました。
+2025-08-16 18:08:25,135 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'Pixel 7a (Windows 仮想カメラ)', 1: 'HD USB Camera', 2: 'OBS Virtual Camera'}
+2025-08-16 18:10:10,124 - root - INFO - ロギング設定が完了しました。
+2025-08-16 18:10:13,326 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'Pixel 7a (Windows 仮想カメラ)', 1: 'HD USB Camera', 2: 'OBS Virtual Camera'}
+2025-08-16 18:10:20,603 - services.capture_service - INFO - CaptureServiceを開始しました。
+2025-08-16 18:10:23,611 - services.capture_service - WARNING - CaptureServiceが時間内に終了せず、強制終了します。
+2025-08-16 18:10:23,612 - services.capture_service - INFO - CaptureServiceを停止しました。
+2025-08-16 18:10:50,929 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'Pixel 7a (Windows 仮想カメラ)', 1: 'OBS Virtual Camera'}
+2025-08-16 18:11:00,797 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'Pixel 7a (Windows 仮想カメラ)', 1: 'HD USB Camera', 2: 'OBS Virtual Camera'}
+2025-08-16 18:15:07,526 - root - INFO - ロギング設定が完了しました。
+2025-08-16 18:15:10,798 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'Pixel 7a (Windows 仮想カメラ)', 1: 'HD USB Camera', 2: 'OBS Virtual Camera'}
+2025-08-16 18:15:25,098 - services.capture_service - INFO - CaptureServiceを開始しました。
+2025-08-16 18:15:28,106 - services.capture_service - WARNING - CaptureServiceが時間内に終了せず、強制終了します。
+2025-08-16 18:15:28,106 - services.capture_service - INFO - CaptureServiceを停止しました。
+2025-08-16 18:16:03,937 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'Pixel 7a (Windows 仮想カメラ)', 1: 'HD USB Camera', 2: 'OBS Virtual Camera'}
+2025-08-16 18:16:14,676 - services.capture_service - INFO - CaptureServiceを開始しました。
+2025-08-16 18:16:17,693 - services.capture_service - WARNING - CaptureServiceが時間内に終了せず、強制終了します。
+2025-08-16 18:16:17,694 - services.capture_service - INFO - CaptureServiceを停止しました。
+2025-08-16 18:17:26,086 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'Pixel 7a (Windows 仮想カメラ)', 1: 'HD USB Camera', 2: 'OBS Virtual Camera'}
+2025-08-16 18:17:32,218 - services.capture_service - INFO - CaptureServiceを開始しました。
+2025-08-16 18:17:35,231 - services.capture_service - WARNING - CaptureServiceが時間内に終了せず、強制終了します。
+2025-08-16 18:17:35,232 - services.capture_service - INFO - CaptureServiceを停止しました。
+2025-08-16 18:22:54,689 - root - INFO - ロギング設定が完了しました。
+2025-08-16 18:22:57,102 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'Pixel 7a (Windows 仮想カメラ)', 1: 'HD USB Camera', 2: 'OBS Virtual Camera'}
+2025-08-16 18:23:05,378 - services.capture_service - INFO - CaptureServiceを開始しました。
+2025-08-16 18:23:08,385 - services.capture_service - WARNING - CaptureServiceが時間内に終了せず、強制終了します。
+2025-08-16 18:23:08,385 - services.capture_service - INFO - CaptureServiceを停止しました。
+2025-08-16 18:38:40,316 - root - INFO - ロギング設定が完了しました。
+2025-08-16 18:38:42,899 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'Pixel 7a (Windows 仮想カメラ)', 1: 'HD USB Camera', 2: 'OBS Virtual Camera'}
+2025-08-16 18:38:50,354 - services.capture_service - INFO - CaptureServiceを開始しました。
+2025-08-16 18:38:53,357 - services.capture_service - WARNING - CaptureServiceが時間内に終了せず、強制終了します。
+2025-08-16 18:38:53,357 - services.capture_service - INFO - CaptureServiceを停止しました。
+2025-08-16 18:43:50,256 - root - INFO - ロギング設定が完了しました。
+2025-08-16 18:43:53,194 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'Pixel 7a (Windows 仮想カメラ)', 1: 'HD USB Camera', 2: 'OBS Virtual Camera'}
+2025-08-16 18:44:07,331 - services.capture_service - INFO - CaptureServiceを開始しました。
+2025-08-16 18:44:10,347 - services.capture_service - WARNING - CaptureServiceが時間内に終了せず、強制終了します。
+2025-08-16 18:44:10,347 - services.capture_service - INFO - CaptureServiceを停止しました。
+2025-08-16 18:44:53,013 - services.capture_service - INFO - CaptureServiceを開始しました。
+2025-08-16 18:44:56,017 - services.capture_service - WARNING - CaptureServiceが時間内に終了せず、強制終了します。
+2025-08-16 18:44:56,018 - services.capture_service - INFO - CaptureServiceを停止しました。
+2025-08-16 18:47:13,065 - root - INFO - ロギング設定が完了しました。
+2025-08-16 18:53:28,601 - root - INFO - ロギング設定が完了しました。
+2025-08-16 18:53:32,243 - services.capture_service - INFO - CaptureServiceを開始しました。
+2025-08-16 18:53:33,503 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'Pixel 7a (Windows 仮想カメラ)', 1: 'HD USB Camera', 2: 'OBS Virtual Camera'}
+2025-08-16 18:53:37,692 - services.capture_service - WARNING - CaptureServiceが時間内に終了せず、強制終了します。
+2025-08-16 18:53:37,693 - services.capture_service - INFO - CaptureServiceを停止しました。
+2025-08-16 18:53:37,698 - services.capture_service - INFO - CaptureServiceを開始しました。
+2025-08-17 18:09:35,835 - root - INFO - ロギング設定が完了しました。
+2025-08-17 18:09:40,724 - services.capture_service - INFO - CaptureServiceを開始しました。
+2025-08-17 18:09:49,790 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'HD USB Camera', 1: 'Pixel 7a (Windows 仮想カメラ)', 2: 'OBS Virtual Camera'}
+2025-08-17 18:09:53,709 - services.capture_service - INFO - CaptureServiceを停止しました。
+2025-08-17 18:09:53,714 - services.capture_service - INFO - CaptureServiceを開始しました。
+2025-08-17 18:09:57,250 - services.capture_service - WARNING - CaptureServiceが時間内に終了せず、強制終了します。
+2025-08-17 18:09:57,250 - services.capture_service - INFO - CaptureServiceを停止しました。
+2025-08-17 18:09:57,256 - services.capture_service - INFO - CaptureServiceを開始しました。
+2025-08-17 18:10:04,883 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'HD USB Camera', 1: 'Pixel 7a (Windows 仮想カメラ)', 2: 'OBS Virtual Camera'}
+2025-08-17 18:10:09,919 - services.capture_service - INFO - CaptureServiceを停止しました。
+2025-08-17 18:10:09,922 - services.capture_service - INFO - CaptureServiceを開始しました。
+2025-08-20 18:48:21,946 - root - INFO - ロギング設定が完了しました。
+2025-08-20 18:48:24,454 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'OBS Virtual Camera'}
+2025-08-20 18:50:11,682 - services.capture_service - INFO - CaptureServiceを開始しました。
+2025-08-20 18:50:36,672 - services.capture_service - INFO - CaptureServiceを停止しました。
+2025-08-20 18:56:40,201 - root - INFO - ロギング設定が完了しました。
+2025-08-20 18:59:33,032 - root - INFO - ロギング設定が完了しました。
+2025-08-20 18:59:33,171 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'OBS Virtual Camera'}
+2025-08-20 18:59:35,895 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'OBS Virtual Camera'}
+2025-08-20 18:59:51,018 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'OBS Virtual Camera'}
+2025-08-20 19:00:05,653 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 19:00:13,003 - services.capture_service - INFO - CaptureServiceを開始しました。
+2025-08-20 19:01:00,645 - root - INFO - ロギング設定が完了しました。
+2025-08-20 19:01:00,789 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 19:01:02,740 - services.capture_service - INFO - CaptureServiceを開始しました。
+2025-08-20 19:01:03,887 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 19:01:09,186 - services.capture_service - WARNING - CaptureServiceが時間内に終了せず、強制終了します。
+2025-08-20 19:01:09,186 - services.capture_service - INFO - CaptureServiceを停止しました。
+2025-08-20 19:01:09,191 - services.capture_service - INFO - CaptureServiceを開始しました。
+2025-08-20 19:08:52,199 - root - INFO - ロギング設定が完了しました。
+2025-08-20 19:09:46,096 - root - INFO - ロギング設定が完了しました。
+2025-08-20 19:12:25,796 - root - INFO - ロギング設定が完了しました。
+2025-08-20 19:12:56,383 - root - INFO - ロギング設定が完了しました。
+2025-08-20 19:14:20,785 - root - INFO - ロギング設定が完了しました。
+2025-08-20 19:14:20,933 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'OBS Virtual Camera'}
+2025-08-20 19:16:28,080 - root - INFO - ロギング設定が完了しました。
+2025-08-20 19:16:28,231 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'OBS Virtual Camera'}
+2025-08-20 19:16:28,286 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'OBS Virtual Camera'}
+2025-08-20 19:16:38,170 - services.capture_service - INFO - CaptureServiceを開始しました。
+2025-08-20 19:16:50,265 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 19:16:54,061 - services.capture_service - INFO - CaptureServiceを停止しました。
+2025-08-20 19:16:54,078 - services.capture_service - INFO - CaptureServiceを開始しました。
+2025-08-20 19:17:59,743 - root - INFO - ロギング設定が完了しました。
+2025-08-20 19:17:59,898 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 19:17:59,959 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 19:18:20,562 - root - INFO - ロギング設定が完了しました。
+2025-08-20 19:18:20,717 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 19:18:20,772 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 19:18:22,830 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 19:18:23,709 - services.capture_service - INFO - CaptureServiceを開始しました。
+2025-08-20 19:18:24,883 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 19:18:26,933 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 19:18:26,959 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 19:18:28,985 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 19:18:31,032 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 19:18:32,160 - services.capture_service - WARNING - CaptureServiceが時間内に終了せず、強制終了します。
+2025-08-20 19:18:32,160 - services.capture_service - INFO - CaptureServiceを停止しました。
+2025-08-20 19:18:32,169 - services.capture_service - INFO - CaptureServiceを開始しました。
+2025-08-20 19:18:33,082 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 19:18:35,139 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 19:18:37,190 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 19:18:39,241 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 19:18:41,291 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 19:18:43,343 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 19:18:45,393 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 19:18:47,466 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 19:18:49,525 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 19:18:51,590 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 19:18:53,668 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 19:18:55,789 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 19:18:57,846 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 19:18:59,905 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 19:19:01,957 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 19:19:04,022 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 19:19:06,073 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 19:19:08,152 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 19:19:10,215 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 19:19:12,292 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 19:19:14,364 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 19:19:16,440 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 19:19:18,525 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 19:19:20,607 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 19:19:22,666 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 19:19:24,721 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 19:19:26,808 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 19:19:28,870 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 19:19:30,918 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 19:19:33,000 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 19:19:35,084 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 19:19:37,137 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 19:19:39,181 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 19:19:41,257 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 19:19:41,699 - services.capture_service - WARNING - CaptureServiceが時間内に終了せず、強制終了します。
+2025-08-20 19:19:41,701 - services.capture_service - INFO - CaptureServiceを停止しました。
+2025-08-20 19:19:41,721 - services.capture_service - INFO - CaptureServiceを開始しました。
+2025-08-20 19:19:43,302 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 19:19:43,734 - services.capture_service - WARNING - CaptureServiceが時間内に終了せず、強制終了します。
+2025-08-20 19:19:43,734 - services.capture_service - INFO - CaptureServiceを停止しました。
+2025-08-20 19:19:45,355 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 19:19:47,412 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 19:19:49,479 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 19:19:51,541 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 19:19:53,602 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 19:27:23,378 - root - INFO - ロギング設定が完了しました。
+2025-08-20 19:28:51,460 - root - INFO - ロギング設定が完了しました。
+2025-08-20 19:34:26,125 - root - INFO - ロギング設定が完了しました。
+2025-08-20 19:39:18,943 - root - INFO - ロギング設定が完了しました。
+2025-08-20 19:53:55,461 - root - INFO - ロギング設定が完了しました。
+2025-08-20 19:53:56,218 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'OBS Virtual Camera'}
+2025-08-20 19:53:56,218 - utils.camera_utils - INFO - カメラの変更を検出: {0: 'OBS Virtual Camera'}
+2025-08-20 19:53:56,219 - utils.camera_utils - ERROR - カメラ監視スレッドでエラーが発生しました: 'UIManager' object has no attribute 'update_camera_dropdown'
+2025-08-20 19:53:58,314 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'OBS Virtual Camera'}
+2025-08-20 19:53:58,314 - utils.camera_utils - INFO - カメラの変更を検出: {0: 'OBS Virtual Camera'}
+2025-08-20 19:53:58,320 - utils.camera_utils - ERROR - カメラ監視スレッドでエラーが発生しました: 'UIManager' object has no attribute 'update_camera_dropdown'
+2025-08-20 19:53:58,347 - services.capture_service - INFO - CaptureServiceを開始しました。
+2025-08-20 19:54:00,385 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'OBS Virtual Camera'}
+2025-08-20 19:54:00,385 - utils.camera_utils - INFO - カメラの変更を検出: {0: 'OBS Virtual Camera'}
+2025-08-20 19:54:00,385 - utils.camera_utils - ERROR - カメラ監視スレッドでエラーが発生しました: 'UIManager' object has no attribute 'update_camera_dropdown'
+2025-08-20 19:54:02,447 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'OBS Virtual Camera'}
+2025-08-20 19:54:02,448 - utils.camera_utils - INFO - カメラの変更を検出: {0: 'OBS Virtual Camera'}
+2025-08-20 19:54:02,448 - utils.camera_utils - ERROR - カメラ監視スレッドでエラーが発生しました: 'UIManager' object has no attribute 'update_camera_dropdown'
+2025-08-20 19:54:04,498 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'OBS Virtual Camera'}
+2025-08-20 19:54:04,498 - utils.camera_utils - INFO - カメラの変更を検出: {0: 'OBS Virtual Camera'}
+2025-08-20 19:54:04,499 - utils.camera_utils - ERROR - カメラ監視スレッドでエラーが発生しました: 'UIManager' object has no attribute 'update_camera_dropdown'
+2025-08-20 19:54:05,702 - services.capture_service - WARNING - CaptureServiceが時間内に終了せず、強制終了します。
+2025-08-20 19:54:05,703 - services.capture_service - INFO - CaptureServiceを停止しました。
+2025-08-20 19:54:05,709 - services.capture_service - INFO - CaptureServiceを開始しました。
+2025-08-20 19:54:06,552 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'OBS Virtual Camera'}
+2025-08-20 19:54:06,552 - utils.camera_utils - INFO - カメラの変更を検出: {0: 'OBS Virtual Camera'}
+2025-08-20 19:54:06,552 - utils.camera_utils - ERROR - カメラ監視スレッドでエラーが発生しました: 'UIManager' object has no attribute 'update_camera_dropdown'
+2025-08-20 19:54:08,604 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'OBS Virtual Camera'}
+2025-08-20 19:54:08,604 - utils.camera_utils - INFO - カメラの変更を検出: {0: 'OBS Virtual Camera'}
+2025-08-20 19:54:08,604 - utils.camera_utils - ERROR - カメラ監視スレッドでエラーが発生しました: 'UIManager' object has no attribute 'update_camera_dropdown'
+2025-08-20 19:54:10,646 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 19:54:10,646 - utils.camera_utils - INFO - カメラの変更を検出: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 19:54:10,654 - utils.camera_utils - ERROR - カメラ監視スレッドでエラーが発生しました: 'UIManager' object has no attribute 'update_camera_dropdown'
+2025-08-20 19:54:12,699 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 19:54:12,706 - utils.camera_utils - INFO - カメラの変更を検出: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 19:54:12,706 - utils.camera_utils - ERROR - カメラ監視スレッドでエラーが発生しました: 'UIManager' object has no attribute 'update_camera_dropdown'
+2025-08-20 19:54:14,765 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 19:54:14,765 - utils.camera_utils - INFO - カメラの変更を検出: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 19:54:14,766 - utils.camera_utils - ERROR - カメラ監視スレッドでエラーが発生しました: 'UIManager' object has no attribute 'update_camera_dropdown'
+2025-08-20 20:15:11,584 - root - INFO - ロギング設定が完了しました。
+2025-08-20 20:15:12,362 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 20:15:12,362 - utils.camera_utils - INFO - カメラの変更を検出: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 20:15:12,362 - utils.camera_utils - ERROR - カメラ監視スレッドでエラーが発生しました: 'UIManager' object has no attribute 'update_camera_dropdown'
+2025-08-20 20:15:14,431 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 20:15:14,431 - utils.camera_utils - INFO - カメラの変更を検出: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 20:15:14,431 - utils.camera_utils - ERROR - カメラ監視スレッドでエラーが発生しました: 'UIManager' object has no attribute 'update_camera_dropdown'
+2025-08-20 20:15:15,312 - services.capture_service - INFO - CaptureServiceを開始しました。
+2025-08-20 20:15:16,485 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 20:15:16,485 - utils.camera_utils - INFO - カメラの変更を検出: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 20:15:16,485 - utils.camera_utils - ERROR - カメラ監視スレッドでエラーが発生しました: 'UIManager' object has no attribute 'update_camera_dropdown'
+2025-08-20 20:15:18,542 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 20:15:18,542 - utils.camera_utils - INFO - カメラの変更を検出: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 20:15:18,542 - utils.camera_utils - ERROR - カメラ監視スレッドでエラーが発生しました: 'UIManager' object has no attribute 'update_camera_dropdown'
+2025-08-20 20:15:20,601 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 20:15:20,601 - utils.camera_utils - INFO - カメラの変更を検出: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 20:15:20,602 - utils.camera_utils - ERROR - カメラ監視スレッドでエラーが発生しました: 'UIManager' object has no attribute 'update_camera_dropdown'
+2025-08-20 20:15:22,658 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 20:15:22,658 - utils.camera_utils - INFO - カメラの変更を検出: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 20:15:22,659 - utils.camera_utils - ERROR - カメラ監視スレッドでエラーが発生しました: 'UIManager' object has no attribute 'update_camera_dropdown'
+2025-08-20 20:15:24,711 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 20:15:24,711 - utils.camera_utils - INFO - カメラの変更を検出: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 20:15:24,712 - utils.camera_utils - ERROR - カメラ監視スレッドでエラーが発生しました: 'UIManager' object has no attribute 'update_camera_dropdown'
+2025-08-20 20:15:26,764 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 20:15:26,764 - utils.camera_utils - INFO - カメラの変更を検出: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 20:15:26,765 - utils.camera_utils - ERROR - カメラ監視スレッドでエラーが発生しました: 'UIManager' object has no attribute 'update_camera_dropdown'
+2025-08-20 20:15:28,304 - services.capture_service - WARNING - CaptureServiceが時間内に終了せず、強制終了します。
+2025-08-20 20:15:28,304 - services.capture_service - INFO - CaptureServiceを停止しました。
+2025-08-20 20:15:28,309 - services.capture_service - INFO - CaptureServiceを開始しました。
+2025-08-20 20:15:28,817 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 20:15:28,817 - utils.camera_utils - INFO - カメラの変更を検出: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 20:15:28,817 - utils.camera_utils - ERROR - カメラ監視スレッドでエラーが発生しました: 'UIManager' object has no attribute 'update_camera_dropdown'
+2025-08-20 20:15:30,868 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 20:15:30,868 - utils.camera_utils - INFO - カメラの変更を検出: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 20:15:30,869 - utils.camera_utils - ERROR - カメラ監視スレッドでエラーが発生しました: 'UIManager' object has no attribute 'update_camera_dropdown'
+2025-08-20 20:15:32,928 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 20:15:32,928 - utils.camera_utils - INFO - カメラの変更を検出: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 20:15:32,928 - utils.camera_utils - ERROR - カメラ監視スレッドでエラーが発生しました: 'UIManager' object has no attribute 'update_camera_dropdown'
+2025-08-20 20:20:01,964 - root - INFO - ロギング設定が完了しました。
+2025-08-20 20:20:02,699 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 20:20:02,699 - utils.camera_utils - INFO - カメラの変更を検出: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 20:20:04,144 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 20:20:04,767 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 20:20:06,850 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 20:20:08,916 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 20:20:09,273 - services.capture_service - INFO - CaptureServiceを開始しました。
+2025-08-20 20:20:10,981 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 20:20:13,032 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 20:20:15,095 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 20:20:17,152 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 20:20:19,212 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 20:20:21,263 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 20:20:23,321 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 20:20:25,390 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 20:20:27,438 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 20:20:29,497 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 20:20:31,547 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 20:20:33,609 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 20:20:35,679 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 20:20:37,744 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 20:20:39,807 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 20:20:41,866 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 20:20:43,934 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 20:20:45,998 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 20:20:48,066 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 20:20:50,131 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 20:20:52,193 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 20:20:54,250 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 20:20:56,314 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 20:20:58,374 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 20:21:00,439 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 20:21:02,494 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 20:21:04,547 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 20:21:06,607 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 20:21:43,209 - root - INFO - ロギング設定が完了しました。
+2025-08-20 20:21:44,728 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 20:21:44,728 - utils.camera_utils - INFO - カメラの変更を検出: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 20:21:46,862 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 20:21:48,985 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 20:21:51,179 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 20:21:53,270 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 20:21:55,386 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 20:21:57,471 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 20:21:59,608 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 20:22:01,693 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 20:22:03,829 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 20:22:05,994 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 20:22:08,064 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 20:22:10,152 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 20:22:12,379 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 20:22:14,579 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 20:22:16,753 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 20:22:18,906 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 20:22:21,015 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 20:22:23,256 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 20:22:25,406 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 20:22:27,550 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 20:22:29,798 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 20:22:32,017 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 20:22:34,220 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 20:22:36,295 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 20:22:38,368 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 20:22:40,600 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 20:22:42,775 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 20:22:44,993 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 20:22:47,111 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 20:22:49,219 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 20:22:51,461 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 20:22:53,570 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 20:22:55,636 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 20:22:57,754 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 20:22:59,992 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 20:23:02,159 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 20:23:04,245 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 20:23:06,366 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 20:23:08,556 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 20:23:10,718 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 20:23:12,866 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 20:23:15,003 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 20:23:17,239 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 20:23:19,354 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 20:23:21,539 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 20:23:23,643 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 20:23:25,729 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 20:23:27,901 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 20:23:30,011 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 20:23:32,154 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 20:23:34,233 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 20:23:36,425 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 20:23:38,584 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 20:23:40,758 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 20:23:42,840 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 20:23:45,011 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 20:23:47,205 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 20:23:49,295 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 20:23:51,371 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 20:23:53,542 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 20:23:55,682 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 20:24:20,253 - root - INFO - ロギング設定が完了しました。
+2025-08-20 20:24:22,140 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'OBS Virtual Camera'}
+2025-08-20 20:24:22,143 - utils.camera_utils - INFO - カメラの変更を検出: {0: 'OBS Virtual Camera'}
+2025-08-20 20:24:24,160 - services.capture_service - INFO - CaptureServiceを開始しました。
+2025-08-20 20:24:24,209 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'OBS Virtual Camera'}
+2025-08-20 20:24:24,810 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'OBS Virtual Camera'}
+2025-08-20 20:24:26,274 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'OBS Virtual Camera'}
+2025-08-20 20:24:26,825 - services.capture_service - WARNING - CaptureServiceが時間内に終了せず、強制終了します。
+2025-08-20 20:24:26,826 - services.capture_service - INFO - CaptureServiceを停止しました。
+2025-08-20 20:24:26,832 - services.capture_service - INFO - CaptureServiceを開始しました。
+2025-08-20 20:24:28,322 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'OBS Virtual Camera'}
+2025-08-20 20:24:30,373 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'OBS Virtual Camera'}
+2025-08-20 20:24:32,427 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'OBS Virtual Camera'}
+2025-08-20 20:24:34,478 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 20:24:34,478 - utils.camera_utils - INFO - カメラの変更を検出: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 20:24:36,532 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 20:24:38,593 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 20:24:39,501 - services.capture_service - WARNING - CaptureServiceが時間内に終了せず、強制終了します。
+2025-08-20 20:24:39,501 - services.capture_service - INFO - CaptureServiceを停止しました。
+2025-08-20 20:24:39,505 - services.capture_service - INFO - CaptureServiceを開始しました。
+2025-08-20 20:24:40,649 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 20:24:42,716 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 20:24:43,124 - services.capture_service - WARNING - CaptureServiceが時間内に終了せず、強制終了します。
+2025-08-20 20:24:43,124 - services.capture_service - INFO - CaptureServiceを停止しました。
+2025-08-20 20:24:43,124 - services.capture_service - INFO - CaptureServiceを開始しました。
+2025-08-20 20:24:44,781 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 20:24:45,162 - services.capture_service - WARNING - CaptureServiceが時間内に終了せず、強制終了します。
+2025-08-20 20:24:45,162 - services.capture_service - INFO - CaptureServiceを停止しました。
+2025-08-20 20:24:45,168 - services.capture_service - INFO - CaptureServiceを開始しました。
+2025-08-20 20:24:46,843 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 20:24:48,900 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 20:24:50,952 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 20:24:53,002 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 20:24:55,053 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 20:24:57,102 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 20:24:59,172 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 20:25:01,246 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 20:28:51,774 - root - INFO - ロギング設定が完了しました。
+2025-08-20 20:28:52,511 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 20:28:52,511 - utils.camera_utils - INFO - カメラの変更を検出: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 20:28:54,591 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 20:28:56,667 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 20:28:58,726 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 20:29:00,806 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 20:29:02,883 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 20:29:04,966 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 20:29:05,407 - services.capture_service - INFO - CaptureServiceを開始しました。
+2025-08-20 20:29:06,207 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 20:29:07,016 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 20:29:08,216 - services.capture_service - WARNING - CaptureServiceが時間内に終了せず、強制終了します。
+2025-08-20 20:29:08,216 - services.capture_service - INFO - CaptureServiceを停止しました。
+2025-08-20 20:29:08,224 - services.capture_service - INFO - CaptureServiceを開始しました。
+2025-08-20 20:29:09,072 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 20:29:11,133 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 20:29:12,466 - services.capture_service - WARNING - CaptureServiceが時間内に終了せず、強制終了します。
+2025-08-20 20:29:12,466 - services.capture_service - INFO - CaptureServiceを停止しました。
+2025-08-20 20:29:12,471 - services.capture_service - INFO - CaptureServiceを開始しました。
+2025-08-20 20:29:13,190 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 20:29:14,488 - services.capture_service - WARNING - CaptureServiceが時間内に終了せず、強制終了します。
+2025-08-20 20:29:14,488 - services.capture_service - INFO - CaptureServiceを停止しました。
+2025-08-20 20:29:14,492 - services.capture_service - INFO - CaptureServiceを開始しました。
+2025-08-20 20:29:15,244 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 20:29:17,294 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 20:29:19,345 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 20:29:21,397 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 20:29:23,454 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 20:29:25,513 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 20:29:27,570 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 20:29:29,635 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 20:29:31,683 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 20:30:55,350 - root - INFO - ロギング設定が完了しました。
+2025-08-20 20:30:56,088 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 20:30:56,089 - utils.camera_utils - INFO - カメラの変更を検出: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 20:30:58,177 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 20:30:59,304 - services.capture_service - INFO - CaptureServiceを開始しました。
+2025-08-20 20:31:00,235 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 20:31:02,297 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 20:31:04,353 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 20:31:06,407 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 20:31:08,460 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-20 20:31:10,527 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'RICOH THETA V', 1: 'OBS Virtual Camera'}
+2025-08-21 14:38:46,231 - root - INFO - ロギング設定が完了しました。
+2025-08-21 14:38:47,010 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'OBS Virtual Camera'}
+2025-08-21 14:38:47,010 - utils.camera_utils - INFO - カメラの変更を検出: {0: 'OBS Virtual Camera'}
+2025-08-21 14:38:49,095 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'OBS Virtual Camera'}
+2025-08-21 14:38:51,144 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'OBS Virtual Camera'}
+2025-08-21 14:38:53,220 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'OBS Virtual Camera'}
+2025-08-21 14:38:55,281 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'OBS Virtual Camera'}
+2025-08-21 14:38:57,345 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'OBS Virtual Camera'}
+2025-09-26 19:00:45,220 - root - INFO - ロギング設定が完了しました。
+2025-09-26 19:02:20,049 - root - INFO - ロギング設定が完了しました。
+2025-09-26 19:32:59,994 - root - INFO - ロギング設定が完了しました。
+2025-09-26 19:34:33,350 - root - INFO - ロギング設定が完了しました。
+2025-09-26 19:35:54,213 - root - INFO - ロギング設定が完了しました。
+2025-09-26 19:37:01,183 - root - INFO - ロギング設定が完了しました。
+2025-09-26 19:37:37,352 - root - INFO - ロギング設定が完了しました。
+2025-09-26 19:38:41,668 - root - INFO - ロギング設定が完了しました。
+2025-09-26 19:38:41,724 - root - WARNING - UIManager.setup_control_panel が未実装のため暫定UIを作成します。
+2025-09-26 19:39:35,236 - root - INFO - ロギング設定が完了しました。
+2025-09-26 19:39:35,284 - root - WARNING - UIManager.setup_control_panel が未実装のため暫定UIを作成します。

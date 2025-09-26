@@ -1,0 +1,35 @@
+/
+├─ app/                  # アプリケーションのUIと制御層
+│  ├─ __init__.py
+│  ├─ app_main.py         
+│  ├─ controller.py       
+│  ├─ ui_manager.py       
+│  ├─ state_manager.py    
+│  ├─ service_manager.py  
+│  └─ views/
+│     ├─ __init__.py
+│     ├─ clustering_view.py
+│     └─ ... (他のviewもここに)
+│
+├─ core/                 # 中核となるビジネスロジックとデータ管理
+│  ├─ __init__.py
+│  ├─ model.py            
+│  ├─ data_loader.py      
+│  ├─ data_processor.py   
+│  ├─ config_manager.py   
+│  └─ save_manager.py     
+│
+├─ services/             # 外部サービス/プロセス (YOLO, MediaPipeなど)
+│  ├─ __init__.py
+│  ├─ capture_service.py
+│  ├─ person_tracker.py
+│  └─ ... (他のserviceもここに)
+│
+├─ utils/                # 汎用的な補助モジュール
+│  ├─ __init__.py
+│  └─ logger_config.py    
+│
+├─ launcher.py           # アプリケーション起動スクリプト
+├─ constants.py          
+├─ config.json           
+└─ requirements.txt      
